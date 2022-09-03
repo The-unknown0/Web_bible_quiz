@@ -9,7 +9,7 @@
 * End the game and Restart...
 
 ## Features to add
-1. Set user able to select the duration of the game
+1. Improve the user ability to select the duration of the game
 2. Show user mistakes at the end of the game
 
 ## Ideas for the next level
