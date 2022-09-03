@@ -98,7 +98,7 @@ function compteur() {
 		var interval = setInterval(kit, 1000);
 	}	
 	
-var time = 30;
+var time = $('#duration').val();
 function kit() {
 	// body...
 	if (one<=30) {
